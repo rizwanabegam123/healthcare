@@ -168,7 +168,7 @@ CREATE TABLE `prescription` (
 --
 
 INSERT INTO `prescription` (`pres_id`, `diagnosis`, `symptoms`, `test_needed`, `medication`, `p_id`) VALUES
-(1, 'brain tumor', 'head ache', 'biopsy', 'nil', 1);
+(1, 'viral fever', 'head ache', 'blood test', 'nil', 1);
 
 -- --------------------------------------------------------
 
